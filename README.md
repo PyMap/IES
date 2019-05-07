@@ -1,0 +1,2 @@
+# IES
+El impacto de los estadios de fútbol es un experimento que realicé hace algún tiempo. Lo motorizaba saber si la cercanía a un estadio de fútbol depreciaba el valor de una propiedad. Sin ánimo de ser concluyente, comparto algunos los alcances y limitaciones de lo que fui haciendo para responder esta pregunta. Las ideas principales están condensadas en un texto, además queda a disposición el dataframe que construí y algunas pruebas en jupyter notebook. 
